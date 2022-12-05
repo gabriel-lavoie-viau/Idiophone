@@ -1,0 +1,12 @@
+0, 1 1 tone;
+1, 16 15 "half tone...";
+2, 9 8 second;
+3, 6 5 "minor third";
+4, 5 4 "major third";
+5, 4 3 fourth;
+6, 45 32 tritone;
+7, 3 2 fifth;
+8, 8 5 "minor sixth";
+9, 5 3 "major sixth";
+10, 9 5 "minor seventh";
+11, 15 8 "major seventh...";
